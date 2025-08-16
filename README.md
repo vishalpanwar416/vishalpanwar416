@@ -103,7 +103,7 @@ Saraswati Vihar Senior Secondary School, Saharanpur (2019)
 
 <p align="center"> 
   👀 Visitor Count <br>
-  <img src="https://profile-counter.glitch.me/vishalpanwar416/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=vishalpanwar416&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>  
 
 ---
