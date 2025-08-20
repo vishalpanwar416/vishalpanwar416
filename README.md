@@ -82,11 +82,12 @@ Saraswati Vihar Senior Secondary School, Saharanpur (2019)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalpanwar416&show_icons=true&theme=radical" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpanwar416&layout=compact&theme=radical" alt="langs" height="180"/>
-</p>  
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalpanwar416&theme=radical" alt="streak"/>
-</p>  
+  <img src="https://streak-stats.demolab.com?user=vishalpanwar416&theme=radical" alt="streak" height="180"/>
+</p>
+
 
 ---
 
