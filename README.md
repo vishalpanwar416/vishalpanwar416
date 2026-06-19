@@ -2,15 +2,16 @@
 
 # 👋 Hello, I'm Vishal Panwar
 
-### Software Engineer | AI Enthusiast | Cloud Architect
+### Software Development Engineer | Backend · Cloud · AI/LLM
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+%7C+Cloud+%7C+AI%2FML;Always+Learning%2C+Always+Innovating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Microservices;Go+%7C+Kubernetes+%7C+GCP;Backend+%7C+Full-Stack+%7C+AI+Automation;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://vishalpanwar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/vishalpanwar416"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vishalpanwar416@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/vishalpanwar416"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://github.com/vishalpanwar416"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -23,21 +24,23 @@
 
 ```typescript
 const vishal = {
-  title: "Software Engineer",
-  company: "Cognizant Technology Solutions",
-  location: "India 🇮🇳",
+  title: "Software Development Engineer",
+  company: "Bluecopa",
+  location: "Hyderabad, India 🇮🇳",
+  experience: "2+ years",
   education: "B.Tech Computer Science (2024)",
   certifications: ["Microsoft Azure Data Scientist Associate"],
-  interests: ["AI/ML", "Cloud Computing", "Full-Stack Development"],
-  currentlyBuilding: "Scalable AI-powered solutions",
-  lifePhilosophy: "Code with purpose, innovate with passion"
+  focus: ["Go", "Cloud-Native Systems", "SRE/DevOps", "AI/LLM Engineering"],
+  currentlyBuilding: "Go microservices, AI automation pipelines, observability-first platforms",
+  openTo: "Remote (India), US, Gulf region",
+  lifePhilosophy: "Code with purpose, ship with observability"
 };
 ```
 
-🔭 Currently working on cloud-native microservices and AI automation  
-🌱 Exploring advanced ML/AI architectures and distributed systems  
-💡 Open to collaborating on innovative tech projects  
-⚡ Fun fact: I believe every bug is just an undiscovered feature
+🔭 **Currently** building Go + Next.js features at **Bluecopa** — shipping to production on a bi-weekly cadence  
+🌱 Exploring LLM agents, RAG pipelines, and distributed systems at scale  
+💡 Open to **Backend**, **Full Stack**, **SRE/DevOps**, and **Go** roles  
+⚡ **250+** LeetCode problems solved · promoted at Cognizant within 6 months
 
 ---
 
@@ -46,47 +49,49 @@ const vishal = {
 <div align="center">
 
 ### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### Backend Development
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat)
+![gRPC](https://img.shields.io/badge/gRPC-244C5D?style=flat&logo=grpc&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=flat)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Cloud & DevOps
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+### AI/ML & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 </div>
 
@@ -100,80 +105,75 @@ const vishal = {
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ Table Tap
-**Smart Restaurant Ordering Platform**
+### 🍽️ Table-Tap
+**Contactless QR Food Ordering + AI Analytics**
 
-A contactless food ordering system with AI-powered management features and real-time order tracking.
+Production contactless ordering platform with GPT-4 RAG analytics for restaurant owners.
 
-**Tech Stack:** React, Node.js, MongoDB, Firebase, LLM Integration  
-**Infrastructure:** Multi-cloud deployment (AWS + Azure)
+**Tech Stack:** React, Node.js, MongoDB, OpenAI API, GCP, Twilio  
+**Impact:** 80% faster order processing · 10K+ customers · 500+ concurrent orders at peak
 
 **Key Features:**
-- 🤖 AI restaurant assistant
-- 📊 Real-time analytics dashboard
-- 🔔 Live order notifications
-- ☁️ Auto-scaling architecture
+- 🤖 GPT-4 + RAG business analytics (90%+ query accuracy)
+- ☁️ GCP Cloud Run + CDN — <100ms global latency
+- 🔔 Event-driven notifications (WhatsApp, SMS, Email)
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=flat&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-table--tap--qr.vercel.app-3B82F6?style=flat&logo=vercel)](https://table-tap-qr.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 PG Flow
-**Complete PG Management Solution**
+### 🤖 Freddy — Job Automation Agent
+**AI-Powered Job Search & Apply Pipeline**
 
-Cross-platform mobile application for seamless paying guest accommodation management.
+End-to-end autonomous job pipeline: search → tailor resume → apply → cold email → track replies.
 
-**Tech Stack:** Flutter, Firebase, Node.js, MongoDB  
-**Platform:** iOS & Android
+**Tech Stack:** Node.js, Playwright, SQLite, LLM (Ollama/Cursor), MCP, Firebase  
+**Scale:** Multi-platform (Indeed, LinkedIn, Naukri, Dice) · ATS-tailored resumes · Gmail SMTP outreach
 
 **Key Features:**
-- 👥 Resident & payment tracking
-- 📈 Growth analytics
-- 💳 Integrated payment gateway
-- 📱 Real-time notifications
+- 🔍 Driver-mode job search + JD enrichment
+- 📄 ATS-optimized resume tailoring per role
+- ✉️ Personalised cold emails with humanised cadence
+- 📊 Dashboard + mobile PWA sync
 
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=flat&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-job--automation-100000?style=flat&logo=github&logoColor=white)](https://github.com/vishalpanwar416/job-automation)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🅿️ Smart Parking System
-**AI-Powered Parking Management**
+### 📊 Discovr.ai — Social Analytics
+**AI-Powered Brand Intelligence Dashboard**
 
-Computer vision-based parking spot detection system using advanced object detection algorithms.
+Full-stack platform aggregating social signals from 5+ platforms with LLM sentiment analysis.
 
-**Tech Stack:** Python, YOLOv8, OpenCV, TensorFlow  
-**Performance:** 95%+ accuracy
+**Tech Stack:** Next.js, Go (Gin), PostgreSQL, GCP Cloud Run, Terraform, Python  
+**Scale:** 50K+ posts/day · 10K+ daily social signals
 
 **Key Features:**
-- 🎯 Real-time spot detection
-- 📹 Multi-camera support
-- 🔄 Automatic availability updates
-- 🏙️ Smart city integration ready
-
-[![View Project](https://img.shields.io/badge/View_Project-100000?style=flat&logo=github&logoColor=white)](#)
+- 🔄 Fault-tolerant Go/Python scrapers with rate-limit handling
+- 🧠 LLM review agents — 70% reduction in manual analysis
+- ☁️ Terraform-managed GCP infra · 99.9% uptime
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI/ML Solutions
-**Intelligent Data Analytics**
+### 🛒 Distributed E-Commerce Aggregator
+**Multi-Platform Price Comparison Engine**
 
-Production-ready machine learning pipelines and custom AI implementations for various use cases.
+Distributed aggregation platform integrating 5+ e-commerce APIs with real-time WebSocket updates.
 
-**Tech Stack:** Python, scikit-learn, MLflow, Apache Airflow  
-**Deployment:** Azure ML, Docker
+**Tech Stack:** Node.js, Redis, Bull Queue, WebSockets, Firebase  
+**Performance:** 500+ req/min · 99.5% success rate · 70% fewer external API calls
 
 **Key Features:**
-- 📊 Predictive analytics models
-- 🔄 Automated data pipelines
-- 💬 Custom LLM integrations
-- 📈 Real-time model monitoring
+- ⚡ Multi-layer caching — 40% faster responses, $5K/mo API savings
+- 🔌 Circuit breakers + exponential backoff
+- 📡 Real-time price comparison for 1.5K+ products
 
-[![View Portfolio](https://img.shields.io/badge/View_All-100000?style=flat&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-Scrapper-100000?style=flat&logo=github&logoColor=white)](https://github.com/vishalpanwar416/Scrapper)
 
 </td>
 </tr>
@@ -189,34 +189,68 @@ Production-ready machine learning pipelines and custom AI implementations for va
 <tr>
 <td width="30%" valign="top">
 
-**Programmer Analyst Trainee**  
-*Cognizant Technology Solutions*  
-📅 Dec 2024 - Present
+**Software Development Engineer**  
+*Bluecopa*  
+📅 Mar 2026 – Present · Remote
 
 </td>
 <td width="70%" valign="top">
 
-• Developing cloud-native microservices for enterprise clients  
-• Optimizing database performance and query efficiency  
-• Building scalable internal tools and automation solutions  
-• Collaborating on AI-powered workflow enhancements
+• Go REST APIs with clean architecture — **40% p95 latency reduction**, 1K+ RPS  
+• End-to-end Next.js + Go features on bi-weekly production releases  
+• PostgreSQL + Redis caching — 60% less repeat query load  
+• Lighthouse 95+ with SSR/ISR; deployment velocity up **50%**
 
 </td>
 </tr>
 <tr>
 <td width="30%" valign="top">
 
-**Programmer Analyst Trainee**  
-*Cognizant (Internship)*  
-📅 Jul 2024 - Nov 2024
+**Software Development Engineer (Contract)**  
+*Discovr.ai*  
+📅 Jan 2026 – Apr 2026 · Remote
 
 </td>
 <td width="70%" valign="top">
 
-• Full-stack development with modern frameworks  
-• Cloud deployment and CI/CD pipeline implementation  
-• Database design and optimization  
-• Team collaboration on client projects
+• AI social analytics dashboard — 5+ platforms, 10K+ daily signals  
+• Go/Python scrapers processing **50K+ posts/day** with fault-tolerant retries  
+• LLM review agents cutting manual analysis time by **70%**  
+• Go (Gin) microservices on GCP Cloud Run + Terraform — **99.9% uptime**
+
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
+
+**Software Engineer**  
+*Implere Tech*  
+📅 Oct 2025 – Feb 2026 · Hyderabad
+
+</td>
+<td width="70%" valign="top">
+
+• Cloud-native infra on **GCP + Kubernetes + Terraform** — 99.9% uptime  
+• CI/CD automation (Jenkins + Terraform) — **85% faster** deployments  
+• Prometheus/Grafana observability — **45% faster** alert resolution  
+• Auto-scaling + cost monitoring — 30% overhead reduction
+
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
+
+**Programmer Analyst**  
+*Cognizant Technology Solutions*  
+📅 Dec 2024 – Sep 2025 · Bangalore
+
+</td>
+<td width="70%" valign="top">
+
+• Scalable apps on Azure serving **1K+ active users**  
+• Docker/Kubernetes containerization — zero-downtime rollouts  
+• REST APIs + SQL optimization — **45% API latency reduction**  
+• Promoted within 6 months for delivery impact
 
 </td>
 </tr>
@@ -230,7 +264,7 @@ Production-ready machine learning pipelines and custom AI implementations for va
 
 | 🎯 Achievement | 📚 Institution | 📅 Year |
 |:---|:---:|:---:|
-| **B.Tech in Computer Science** | KIET Group of Institutions | 2024 |
+| **B.Tech in Computer Science & Engineering** | KIET Group of Institutions (AKTU) | 2024 |
 | **Microsoft Azure Data Scientist Associate** | Microsoft | Apr 2024 |
 | **HackMol 4.0 Finalist** | NIT Jalandhar | Feb 2023 |
 
@@ -253,7 +287,7 @@ Production-ready machine learning pipelines and custom AI implementations for va
 
 ---
 
-**📝 Note:** GitHub streak stats use **UTC timezone**. If you commit late at night in your timezone (IST), it may count for the next day in UTC. For accurate streaks, try committing earlier in the day or enable private contributions in your [GitHub settings](https://github.com/settings/profile).
+**📝 Note:** GitHub streak stats use **UTC timezone**. If you commit late at night in IST, it may count for the next day in UTC. Enable private contributions in your [GitHub settings](https://github.com/settings/profile) for accurate stats.
 
 ---
 
@@ -261,11 +295,11 @@ Production-ready machine learning pipelines and custom AI implementations for va
 
 <div align="center">
 
-I'm always interested in innovative projects and meaningful collaborations!
+I'm open to **Backend**, **Full Stack**, **SRE/DevOps**, and **Go** roles — remote (India), US, or Gulf region.
 
 **Areas of Interest:**
 ```
-🤖 AI/ML Research & Applications  |  ☁️ Cloud-Native Solutions  |  🌐 Full-Stack Development
+🤖 AI/LLM Agents & RAG  |  ☁️ Cloud-Native & SRE  |  ⚡ Go & Distributed Systems
 ```
 
 <br/>
