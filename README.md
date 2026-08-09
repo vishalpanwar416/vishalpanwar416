@@ -176,4 +176,3 @@ Multi-platform aggregation with async workers, caching, and real-time WebSocket 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=80&section=footer&fontSize=12&fontColor=64748b" width="100%"/>
-
