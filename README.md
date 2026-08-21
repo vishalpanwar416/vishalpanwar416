@@ -162,11 +162,6 @@ Multi-platform aggregation with async workers, caching, and real-time WebSocket 
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalpanwar416&theme=transparent" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=vishalpanwar416&theme=transparent&hide_border=true&background=00000000&stroke=475569&ring=3b82f6&fire=3b82f6&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishalpanwar416&theme=transparent" alt="Top languages"/>
-</p>
-
 ---
 
 <p align="center">
