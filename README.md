@@ -159,12 +159,12 @@ Multi-platform aggregation with async workers, caching, and real-time WebSocket 
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalpanwar416&show_icons=true&theme=transparent&hide_border=true&title_color=94a3b8&icon_color=3b82f6&text_color=e2e8f0&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpanwar416&theme=transparent&hide_border=true&background=00000000&stroke=475569&ring=3b82f6&fire=3b82f6&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="GitHub streak"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalpanwar416&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=vishalpanwar416&theme=transparent&hide_border=true&background=00000000&stroke=475569&ring=3b82f6&fire=3b82f6&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpanwar416&layout=compact&theme=transparent&hide_border=true&title_color=94a3b8&text_color=e2e8f0&langs_count=6" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishalpanwar416&theme=transparent" alt="Top languages"/>
 </p>
 
 ---
